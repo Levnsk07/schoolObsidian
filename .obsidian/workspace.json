@@ -1,0 +1,399 @@
+{
+  "main": {
+    "id": "8d2439eda418b37a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec0da212e4c00ea2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c725b01ba0b66ba6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "2a76304faa846006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Изоморфизм.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Изоморфизм"
+            }
+          },
+          {
+            "id": "0a79309fe6db5bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дерево.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дерево"
+            }
+          },
+          {
+            "id": "e9b4ba475943ba57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Инвариант графов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Инвариант графов"
+            }
+          },
+          {
+            "id": "d73af615b1147b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матрица.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Матрица"
+            }
+          },
+          {
+            "id": "fa70c6d700e2e716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матрица  Инцидентности.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Матрица  Инцидентности"
+            }
+          },
+          {
+            "id": "10ae7792bdf5909e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
+          },
+          {
+            "id": "4bce1f3999335ffb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обратная матрица.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Обратная матрица"
+            }
+          },
+          {
+            "id": "2df39cc7c6486ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матрица смежности.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Матрица смежности"
+            }
+          },
+          {
+            "id": "2c67638a456084d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Списки смежности.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Списки смежности"
+            }
+          },
+          {
+            "id": "d4a1068a6cef6fc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матрица  Инцидентности.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Матрица  Инцидентности"
+            }
+          },
+          {
+            "id": "b8788a9d76c0ad8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Изоморфизм графов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Изоморфизм графов"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "601749723c78f2ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2d5d2799cf488d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3727379273f18a19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "5f1cb531e7ec5710",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ги",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "e406bba336c9438a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "fb1d7b5f10d58584",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391.5
+  },
+  "right": {
+    "id": "5ad34aa911777e37",
+    "type": "split",
+    "children": [
+      {
+        "id": "b21f591a833c8207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adf92b7c43da8d0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "ef64edc6a4ad79dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Без названия.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Без названия"
+            }
+          },
+          {
+            "id": "59fdf86183ab0239",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "8f090d458173665b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "2313cc330a330cdc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "omnisearch:Omnisearch": false,
+      "print:Print note": false,
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false
+    }
+  },
+  "active": "10ae7792bdf5909e",
+  "lastOpenFiles": [
+    "Поиск  в ширину.md",
+    "Списки Инцидентности.md",
+    "Матрица  Инцидентности.md",
+    "Списки смежности.md",
+    "Матрица.md",
+    "Корневые деревья.md",
+    "Cache/staticImage.png",
+    "Cache/staticImage.jpg",
+    "Cache/Pasted image 20260208133515.png",
+    "Дерево.md",
+    "Инвариант графов.md",
+    "Cache/Diagram 15.svg.xml",
+    "Cache/Diagram 15.svg",
+    "Cache/Diagram 14.svg.xml",
+    "Cache/Diagram 14.svg",
+    "Цикл.md",
+    "Изоморфизм.md",
+    "Cache/Diagram 13.svg.xml",
+    "Cache/Diagram 13.svg",
+    "Cache/Diagram 12.svg.xml",
+    "Cache/Diagram 12.svg",
+    "Cache/Diagram 1.svg",
+    "Cache/Diagram 2.svg",
+    "Cache/Diagram 3.svg",
+    "Изоморфизм графов.md",
+    "Биекция.md",
+    "Инъективность.md",
+    "Сюръективность.md",
+    "Обратная матрица.md",
+    "Матрица смежности.md",
+    "Транспонированная Матрица.md",
+    "Cache/Diagram 11.svg.xml",
+    "Сумма степеней вершин.md",
+    "Лемма о Рукопожатиях.md",
+    "Полный Двудольный граф.md",
+    "Колесо.md",
+    "Cache/Diagram 10.svg.xml",
+    "Двудольные Графы.md",
+    "Лемма о Рукопожатиях для ориентированных графов.md",
+    "Теорема о чётности степеней вершин.md",
+    "Определитель.md",
+    "Нулевая Матрица.md",
+    "Cache/Diagram 9.svg.xml",
+    "Cache/Diagram 8.svg.xml",
+    "Cache/Diagram 7.svg.xml",
+    "Cache/Diagram 6.svg.xml",
+    "test.canvas"
+  ]
+}
