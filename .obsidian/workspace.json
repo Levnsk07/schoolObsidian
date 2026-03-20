@@ -65,12 +65,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Матрица.md",
+                "file": "Граф.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Матрица"
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "21924c8eaed63fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           },
           {
@@ -93,12 +107,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Поиск  в ширину.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Поиск  в ширину"
             }
           },
           {
@@ -172,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -204,7 +218,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ги",
+                "query": "tag:#ДискретнаяМатематика  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -273,12 +287,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
+                "file": "Учёба/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Без названия"
+              "title": "Исходящие ссылки из TODO"
             }
           },
           {
@@ -346,25 +360,35 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "10ae7792bdf5909e",
+  "active": "21924c8eaed63fba",
   "lastOpenFiles": [
+    "Учёба/TODO.md",
+    "Граф.md",
+    "Висячая Вершина.md",
+    "Смежные Вершины.md",
+    "Колесо.md",
+    "Изоморфизм.md",
+    "Матрица.md",
+    "Учёба/Математический анализ",
+    "Учёба/Дискретная Математика",
+    "Учёба",
+    "Инвариант графов.md",
+    "Дерево.md",
+    "Математический анализ",
+    "Дискретная Математика",
     "Поиск  в ширину.md",
     "Списки Инцидентности.md",
     "Матрица  Инцидентности.md",
     "Списки смежности.md",
-    "Матрица.md",
     "Корневые деревья.md",
     "Cache/staticImage.png",
     "Cache/staticImage.jpg",
     "Cache/Pasted image 20260208133515.png",
-    "Дерево.md",
-    "Инвариант графов.md",
     "Cache/Diagram 15.svg.xml",
     "Cache/Diagram 15.svg",
     "Cache/Diagram 14.svg.xml",
     "Cache/Diagram 14.svg",
     "Цикл.md",
-    "Изоморфизм.md",
     "Cache/Diagram 13.svg.xml",
     "Cache/Diagram 13.svg",
     "Cache/Diagram 12.svg.xml",
@@ -383,17 +407,7 @@
     "Сумма степеней вершин.md",
     "Лемма о Рукопожатиях.md",
     "Полный Двудольный граф.md",
-    "Колесо.md",
-    "Cache/Diagram 10.svg.xml",
     "Двудольные Графы.md",
-    "Лемма о Рукопожатиях для ориентированных графов.md",
-    "Теорема о чётности степеней вершин.md",
-    "Определитель.md",
-    "Нулевая Матрица.md",
-    "Cache/Diagram 9.svg.xml",
-    "Cache/Diagram 8.svg.xml",
-    "Cache/Diagram 7.svg.xml",
-    "Cache/Diagram 6.svg.xml",
     "test.canvas"
   ]
 }
