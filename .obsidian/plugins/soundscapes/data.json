@@ -1,0 +1,68 @@
+{
+  "soundscape": "MY_MUSIC",
+  "volume": 100,
+  "autoplay": false,
+  "scrollSongTitle": false,
+  "customSoundscapes": [],
+  "myMusicIndex": [
+    {
+      "fileName": "Disturbed-TheSoundOfSilence.mp3",
+      "fullPath": "/home/leo/Music/Music/Disturbed-TheSoundOfSilence.mp3",
+      "title": "The Sound of Silence",
+      "artist": "Disturbed",
+      "album": "Immortalized",
+      "duration": 262.21714285714285
+    },
+    {
+      "fileName": "Eye of the Tiger.mp3",
+      "fullPath": "/home/leo/Music/Music/Eye of the Tiger.mp3",
+      "title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "album": "Eye Of The Tiger",
+      "duration": 243.80081632653062
+    },
+    {
+      "fileName": "Far From Any Road.mp3",
+      "fullPath": "/home/leo/Music/Music/Far From Any Road.mp3",
+      "title": "Far From Any Road",
+      "artist": "The Handsome Family",
+      "duration": 168.9861224489796
+    },
+    {
+      "fileName": "Gold.mp3",
+      "fullPath": "/home/leo/Music/Music/Gold.mp3",
+      "title": "Gold (2022 Remix)",
+      "artist": "Spandau Ballet",
+      "album": "Gold",
+      "duration": 288.05224489795916
+    },
+    {
+      "fileName": "GuitarLonelinessAndBluePlanet.mp3",
+      "fullPath": "/home/leo/Music/Music/GuitarLonelinessAndBluePlanet.mp3",
+      "title": "Guitar, Loneliness and Blue Planet",
+      "artist": "Kessoku Band",
+      "album": "Bocchi the Rock",
+      "duration": 233.6130612244898
+    },
+    {
+      "fileName": "HavenFallingDown.mp3",
+      "fullPath": "/home/leo/Music/Music/HavenFallingDown.mp3",
+      "title": "Heaven's Falling Down",
+      "artist": "Сана",
+      "album": "JoJo",
+      "duration": 96.80979591836734
+    },
+    {
+      "fileName": "LayAllYourLoveOnMe.mp3",
+      "fullPath": "/home/leo/Music/Music/LayAllYourLoveOnMe.mp3",
+      "title": "Lay All Your Love On Me",
+      "artist": "Dominic Cooper, Amanda Seyfried",
+      "album": "Mamma Mia!",
+      "duration": 269.505306122449
+    }
+  ],
+  "myMusicFolderPath": "/home/leo/Music/Music",
+  "reindexFrequency": "5",
+  "myMusicShuffle": false,
+  "currentTrackIndex": 0
+}

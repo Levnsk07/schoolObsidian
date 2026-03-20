@@ -8,45 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a79309fe6db5bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templest/МатАнал.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "МатАнал"
-            }
-          },
-          {
             "id": "d73af615b1147b9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/Дискретная Математика/Корневые деревья.md",
+                "file": "Templest/Дискред.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Корневые деревья"
+              "title": "Дискред"
             }
           },
           {
-            "id": "45efc8fbabff4c1b",
+            "id": "f608a49365fd6bad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учёба/Дискретная Математика/Отец Вершины.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Отец Вершины"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           },
           {
@@ -111,72 +93,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/Дискретная Математика/Лист.md",
+                "file": "Учёба/Дискретная Математика/m-арное дерево.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лист"
+              "title": "m-арное дерево"
             }
           },
           {
-            "id": "0c72abb3ad691a81",
+            "id": "2319ba2160e48b16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/Дискретная Математика/Внутренняя вершина.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Внутренняя вершина"
-            }
-          },
-          {
-            "id": "f0f3fa43534d2918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учёба/TODO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "1b8d29cf225a09b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учёба/Дискретная Математика/Корневые деревья.md",
+                "file": "Учёба/Дискретная Математика/Полное m-арное дерево.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Корневые деревья"
+              "title": "Полное m-арное дерево"
             }
           },
           {
-            "id": "4d4ad55c4b4fb99c",
+            "id": "8d96e39f37f33eeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/Дискретная Математика/Ребро.md",
-                "mode": "preview",
+                "file": "Учёба/Дискретная Математика/Дерево.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ребро"
+              "title": "Дерево"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -259,6 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Учёба/Дискретная Математика/Сын.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Сын"
             }
           },
           {
@@ -277,11 +232,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Учёба/Дискретная Математика/Сын.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Сын"
             }
           },
           {
@@ -319,21 +275,31 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Учёба/Дискретная Математика/Сын.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Сын"
+            }
+          },
+          {
+            "id": "7231eba2a94fc0a7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -347,57 +313,59 @@
       "omnisearch:Omnisearch": false,
       "print:Print note": false,
       "obsidian-git:Open Git source control": false,
-      "notebook-navigator:Notebook Navigator": false
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "f0f3fa43534d2918",
+  "active": "2319ba2160e48b16",
   "lastOpenFiles": [
+    "Учёба/Дискретная Математика/m-арное дерево.md",
+    "Учёба/Дискретная Математика/Дерево.md",
+    "Учёба/Дискретная Математика/Полное m-арное дерево.md",
     "Учёба/Дискретная Математика/Внутренняя вершина.md",
-    "Учёба/Дискретная Математика/Лист.md",
     "Учёба/Дискретная Математика/Потомок.md",
     "Учёба/Дискретная Математика/Предок.md",
-    "Учёба/Дискретная Математика/Корневые деревья.md",
-    "Учёба/TODO.md",
-    "Учёба/Дискретная Математика/Братья.md",
-    "Учёба/Дискретная Математика/Лес.md",
     "Учёба/Дискретная Математика/Сын.md",
-    "Учёба/Дискретная Математика/Отец Вершины.md",
-    "Учёба/Дискретная Математика/Ребро.md",
+    "Учёба/Дискретная Математика/Братья.md",
     "Templest/Дискред.md",
-    "Учёба/Дискретная Математика/Дерево.md",
+    "Cache/Diagram 17.svg.xml",
+    "Cache/Diagram 17.svg",
+    "Cache/Diagram 16.svg.xml",
+    "Cache/Diagram 16.svg",
+    "Учёба/Дискретная Математика/Лист.md",
+    "Excalidraw/Drawing 2026-03-20 21.02.46.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-20 21.00.22.excalidraw.md",
+    "Excalidraw",
+    "Учёба/Дискретная Математика/Отец Вершины.md",
+    "Programming/Linux/Git.md",
+    "Programming/Без названия.md",
+    "Programming/Linux",
+    "Programming",
     "Templest/МатАнал.md",
-    "Учёба/Дискретная Математика/Связанность.md",
+    "Учёба/Дискретная Математика/Корневые деревья.md",
+    "Учёба/Математический анализ/Вложенные Отрезки.md",
+    "Учёба/Биекция.md",
+    "Учёба/Сюръективность.md",
+    "Учёба/Инъективность.md",
+    "Cache/Pasted image 20260208133515.png",
+    "Учёба/Математический анализ/Ортогональнось.md",
+    "Учёба/Дискретная Математика/Ребро.md",
+    "Учёба/Математический анализ/Частичный предел.md",
+    "Учёба/Дискретная Математика/Цикл.md",
+    "Учёба/Математический анализ/Убывающая Последовательность.md",
     "Учёба/Математический анализ",
     "Учёба/Дискретная Математика",
     "Учёба/Дискретная математика",
-    "Учёба/Лекция 6.md",
-    "Граф.md",
-    "Инъективность.md",
-    "Изоморфизм.md",
-    "Инвариант графов.md",
-    "Поиск  в ширину.md",
-    "Матрица  Инцидентности.md",
-    "Обратная матрица.md",
-    "Матрица смежности.md",
-    "Списки смежности.md",
-    "Висячая Вершина.md",
     "Учёба/Математический анализ",
     "Учёба/Дискретная Математика",
-    "Учёба",
-    "Математический анализ",
-    "Дискретная Математика",
     "Cache/staticImage.png",
     "Cache/staticImage.jpg",
-    "Cache/Pasted image 20260208133515.png",
-    "Cache/Diagram 15.svg.xml",
     "Cache/Diagram 15.svg",
-    "Cache/Diagram 14.svg.xml",
     "Cache/Diagram 14.svg",
     "Cache/Diagram 13.svg",
     "Cache/Diagram 12.svg",
     "Cache/Diagram 1.svg",
-    "Cache/Diagram 2.svg",
-    "Cache/Diagram 3.svg",
     "test.canvas"
   ]
 }

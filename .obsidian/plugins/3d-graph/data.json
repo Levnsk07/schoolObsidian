@@ -1,0 +1,24 @@
+{
+  "filters": {
+    "doShowOrphans": true,
+    "doShowAttachments": false
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "tag:#МатематическийАнализ  ",
+        "color": "#fd3f3f"
+      },
+      {
+        "query": "tag:#ДискретнаяМатематика  ",
+        "color": "#2b81e3"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 4,
+    "linkThickness": 5,
+    "particleSize": 6,
+    "particleCount": 4
+  }
+}
