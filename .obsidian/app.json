@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "Cache",
   "showLineNumber": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview"
 }

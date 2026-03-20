@@ -8,55 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c725b01ba0b66ba6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "2a76304faa846006",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Изоморфизм.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Изоморфизм"
-            }
-          },
-          {
             "id": "0a79309fe6db5bdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дерево.md",
+                "file": "Templest/МатАнал.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дерево"
-            }
-          },
-          {
-            "id": "e9b4ba475943ba57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Инвариант графов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Инвариант графов"
+              "title": "МатАнал"
             }
           },
           {
@@ -65,16 +27,114 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Граф.md",
+                "file": "Учёба/Дискретная Математика/Корневые деревья.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Корневые деревья"
+            }
+          },
+          {
+            "id": "45efc8fbabff4c1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Дискретная Математика/Отец Вершины.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Граф"
+              "title": "Отец Вершины"
             }
           },
           {
-            "id": "21924c8eaed63fba",
+            "id": "e296272de217990b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Дискретная Математика/Братья.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Братья"
+            }
+          },
+          {
+            "id": "8b1bfd74ec437b1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Дискретная Математика/Сын.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сын"
+            }
+          },
+          {
+            "id": "0f0c2722bed8eea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Дискретная Математика/Предок.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Предок"
+            }
+          },
+          {
+            "id": "f5a964bd87b59d26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Дискретная Математика/Потомок.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Потомок"
+            }
+          },
+          {
+            "id": "5c934e3523dc43f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Дискретная Математика/Лист.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лист"
+            }
+          },
+          {
+            "id": "0c72abb3ad691a81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Дискретная Математика/Внутренняя вершина.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Внутренняя вершина"
+            }
+          },
+          {
+            "id": "f0f3fa43534d2918",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,105 +148,35 @@
             }
           },
           {
-            "id": "fa70c6d700e2e716",
+            "id": "1b8d29cf225a09b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Матрица  Инцидентности.md",
+                "file": "Учёба/Дискретная Математика/Корневые деревья.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Матрица  Инцидентности"
+              "title": "Корневые деревья"
             }
           },
           {
-            "id": "10ae7792bdf5909e",
+            "id": "4d4ad55c4b4fb99c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Поиск  в ширину.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Поиск  в ширину"
-            }
-          },
-          {
-            "id": "4bce1f3999335ffb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обратная матрица.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Обратная матрица"
-            }
-          },
-          {
-            "id": "2df39cc7c6486ef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Матрица смежности.md",
+                "file": "Учёба/Дискретная Математика/Ребро.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Матрица смежности"
-            }
-          },
-          {
-            "id": "2c67638a456084d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Списки смежности.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Списки смежности"
-            }
-          },
-          {
-            "id": "d4a1068a6cef6fc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Матрица  Инцидентности.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Матрица  Инцидентности"
-            }
-          },
-          {
-            "id": "b8788a9d76c0ad8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Изоморфизм графов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Изоморфизм графов"
+              "title": "Ребро"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -253,7 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 310.5
   },
   "right": {
     "id": "5ad34aa911777e37",
@@ -287,12 +277,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Учёба/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из TODO"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -339,11 +328,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -360,27 +350,42 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "21924c8eaed63fba",
+  "active": "f0f3fa43534d2918",
   "lastOpenFiles": [
+    "Учёба/Дискретная Математика/Внутренняя вершина.md",
+    "Учёба/Дискретная Математика/Лист.md",
+    "Учёба/Дискретная Математика/Потомок.md",
+    "Учёба/Дискретная Математика/Предок.md",
+    "Учёба/Дискретная Математика/Корневые деревья.md",
     "Учёба/TODO.md",
+    "Учёба/Дискретная Математика/Братья.md",
+    "Учёба/Дискретная Математика/Лес.md",
+    "Учёба/Дискретная Математика/Сын.md",
+    "Учёба/Дискретная Математика/Отец Вершины.md",
+    "Учёба/Дискретная Математика/Ребро.md",
+    "Templest/Дискред.md",
+    "Учёба/Дискретная Математика/Дерево.md",
+    "Templest/МатАнал.md",
+    "Учёба/Дискретная Математика/Связанность.md",
+    "Учёба/Математический анализ",
+    "Учёба/Дискретная Математика",
+    "Учёба/Дискретная математика",
+    "Учёба/Лекция 6.md",
     "Граф.md",
-    "Висячая Вершина.md",
-    "Смежные Вершины.md",
-    "Колесо.md",
+    "Инъективность.md",
     "Изоморфизм.md",
-    "Матрица.md",
+    "Инвариант графов.md",
+    "Поиск  в ширину.md",
+    "Матрица  Инцидентности.md",
+    "Обратная матрица.md",
+    "Матрица смежности.md",
+    "Списки смежности.md",
+    "Висячая Вершина.md",
     "Учёба/Математический анализ",
     "Учёба/Дискретная Математика",
     "Учёба",
-    "Инвариант графов.md",
-    "Дерево.md",
     "Математический анализ",
     "Дискретная Математика",
-    "Поиск  в ширину.md",
-    "Списки Инцидентности.md",
-    "Матрица  Инцидентности.md",
-    "Списки смежности.md",
-    "Корневые деревья.md",
     "Cache/staticImage.png",
     "Cache/staticImage.jpg",
     "Cache/Pasted image 20260208133515.png",
@@ -388,26 +393,11 @@
     "Cache/Diagram 15.svg",
     "Cache/Diagram 14.svg.xml",
     "Cache/Diagram 14.svg",
-    "Цикл.md",
-    "Cache/Diagram 13.svg.xml",
     "Cache/Diagram 13.svg",
-    "Cache/Diagram 12.svg.xml",
     "Cache/Diagram 12.svg",
     "Cache/Diagram 1.svg",
     "Cache/Diagram 2.svg",
     "Cache/Diagram 3.svg",
-    "Изоморфизм графов.md",
-    "Биекция.md",
-    "Инъективность.md",
-    "Сюръективность.md",
-    "Обратная матрица.md",
-    "Матрица смежности.md",
-    "Транспонированная Матрица.md",
-    "Cache/Diagram 11.svg.xml",
-    "Сумма степеней вершин.md",
-    "Лемма о Рукопожатиях.md",
-    "Полный Двудольный граф.md",
-    "Двудольные Графы.md",
     "test.canvas"
   ]
 }
