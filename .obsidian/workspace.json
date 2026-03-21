@@ -22,27 +22,13 @@
             }
           },
           {
-            "id": "f608a49365fd6bad",
+            "id": "e296272de217990b",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Граф"
-            }
-          },
-          {
-            "id": "e296272de217990b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учёба/Дискретная Математика/Братья.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Братья"
             }
           },
           {
@@ -116,6 +102,20 @@
             }
           },
           {
+            "id": "f1d60518433e7f88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Математический анализ/Транспонированная Матрица.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Транспонированная Матрица"
+            }
+          },
+          {
             "id": "8d96e39f37f33eeb",
             "type": "leaf",
             "state": {
@@ -128,9 +128,37 @@
               "icon": "lucide-file",
               "title": "Дерево"
             }
+          },
+          {
+            "id": "48e55f0f1d5341d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Математический анализ/Интеграл.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Интеграл"
+            }
+          },
+          {
+            "id": "ab9ac8368c60aad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Математический анализ/Первообразные.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Первообразные"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -315,19 +343,22 @@
       "obsidian-git:Open Git source control": false,
       "notebook-navigator:Notebook Navigator": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "soundscapes:Soundscapes: My Music": false
+      "improved-random-note:Open improved random note": false
     }
   },
-  "active": "2319ba2160e48b16",
+  "active": "48e55f0f1d5341d4",
   "lastOpenFiles": [
-    "Учёба/Дискретная Математика/m-арное дерево.md",
+    "Учёба/Математический анализ/Первообразные.md",
+    "Учёба/Математический анализ/Интеграл.md",
     "Учёба/Дискретная Математика/Дерево.md",
+    "Учёба/Дискретная Математика/Братья.md",
+    "Учёба/Математический анализ/Транспонированная Матрица.md",
     "Учёба/Дискретная Математика/Полное m-арное дерево.md",
+    "Учёба/Дискретная Математика/m-арное дерево.md",
     "Учёба/Дискретная Математика/Внутренняя вершина.md",
     "Учёба/Дискретная Математика/Потомок.md",
     "Учёба/Дискретная Математика/Предок.md",
     "Учёба/Дискретная Математика/Сын.md",
-    "Учёба/Дискретная Математика/Братья.md",
     "Templest/Дискред.md",
     "Cache/Diagram 17.svg.xml",
     "Cache/Diagram 17.svg",
@@ -351,9 +382,6 @@
     "Cache/Pasted image 20260208133515.png",
     "Учёба/Математический анализ/Ортогональнось.md",
     "Учёба/Дискретная Математика/Ребро.md",
-    "Учёба/Математический анализ/Частичный предел.md",
-    "Учёба/Дискретная Математика/Цикл.md",
-    "Учёба/Математический анализ/Убывающая Последовательность.md",
     "Учёба/Математический анализ",
     "Учёба/Дискретная Математика",
     "Учёба/Дискретная математика",
